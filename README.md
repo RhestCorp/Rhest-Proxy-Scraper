@@ -29,4 +29,12 @@ Bu tool, internet üzerindeki proxy kaynaklarından HTTP, HTTPS ve SOCKS5 proxy'
   gem install nokogiri
   gem install socksify
  ```
-s
+ ```
+
+- ** çalıştırmak için**
+   ```bash
+   cmd
+   ```
+   ```bash
+   ruby proxy.rb
+    ```
