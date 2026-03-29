@@ -28,8 +28,6 @@ Bu tool, internet üzerindeki proxy kaynaklarından HTTP, HTTPS ve SOCKS5 proxy'
   ```bash
   gem install nokogiri
   gem install socksify
- ```
- ```
 
 - ** çalıştırmak için**
    ```bash
